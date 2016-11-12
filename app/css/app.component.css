@@ -1,0 +1,58 @@
+.top-left {
+    background-color: blue;
+    height: 400px;
+}
+
+.heading-top {
+    background-color: black;
+    height: 50px;
+    margin-bottom: 15px;
+    font-size: 24px;
+
+}
+
+.carousel-class {
+    background: url('http://joyfulhome.com/app/public/drk-linen.png');
+    height: 400px;
+    width: 100%;
+}
+
+.content {
+    margin-top: 8px;
+    color: #ffffff;
+}
+
+.btn-settings {
+    width: 100%;
+    height: 35px;
+    background-color: #44b244;
+    margin-bottom: 10px;
+}
+
+.left-margin-1 {
+    margin-left: 5px;
+}
+
+.square {
+    float:left;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    overflow:hidden;
+    background-color: #252525;
+    margin-bottom: 10px;
+}
+
+.square-content {
+    position:absolute;
+    height:100%; /* = 100% - 2*10% padding */
+    padding: 20% 10%;
+    color: #ffffff;
+    text-align: center;
+    font-size: 24px;
+}
+
+.image-settings {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
